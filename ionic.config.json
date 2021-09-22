@@ -1,0 +1,7 @@
+{
+  "name": "api_hook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
